@@ -1,0 +1,31 @@
+site_name: Crônicas de Westeros
+site_url: https://cronicasdewesteros.github.io/cronicasdewesteros/
+
+theme:
+  name: material
+  language: pt
+  palette:
+    scheme: slate
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+
+nav:
+  - Início: index.md
+  - Lore:
+      - Visão Geral: lore/index.md
+      - História do Mundo: lore/historia.md
+      - Facções Atuais: lore/faccoes.md
+  - Regras:
+      - Introdução: regras/index.md
+      - Atributos: regras/atributos.md
+      - Habilidades: regras/habilidades.md
+      - Exércitos: regras/exercitos.md
+      - Casas: regras/casas.md
+  - Casas:
+      - Casa Stark: casas/stark.md
+  - Como Jogar: como-jogar.md
