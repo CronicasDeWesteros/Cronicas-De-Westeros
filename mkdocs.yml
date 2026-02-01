@@ -31,5 +31,10 @@ nav:
 
   - Facções:
       - Visão Geral: faccoes/index.md
+      - Facções Stark: faccoes/stark.md
+      - Facções Lannister: faccoes/lannister.md
+      - Facções Stokeworth: faccoes/stokeworth.md
+      - Facções Seaworth: faccoes/seaworth.md
+      - Facções Tarly: faccoes/tarly.md
 
   - Como Jogar: como-jogar.md
