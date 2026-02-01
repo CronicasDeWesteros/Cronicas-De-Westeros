@@ -20,6 +20,7 @@ nav:
   - Lore:
       - Visão Geral: lore/index.md
       - História Cronológica: lore/historia.md
+      - Facções: /lore/faccoes.md
 
   - Casas:
       - Visão Geral: casas/index.md
@@ -28,8 +29,5 @@ nav:
       - Casa Seaworth: casas/seaworth.md
       - Casa Stokeworth: casas/stokeworth.md
       - Casa Tarly: casas/tarly.md
-
-  - Facções:
-      - Visão Geral: faccoes/index.md
-
+      
   - Como Jogar: como-jogar.md
