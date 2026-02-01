@@ -1,60 +1,97 @@
 # Casas de Westeros
 
-As **Casas** são a base do poder político, militar e social em Westeros.  
-Mais do que famílias nobres, elas representam **territórios, exércitos, alianças, tradições e ambições**.
+As **Casas** são as estruturas históricas que sustentam o mundo de Westeros.  
+Elas não são o motor direto da ação — esse papel pertence às **facções** —, mas continuam sendo a base sobre a qual o poder existe, reage e cobra seu preço.
 
-Desde o fim do reinado de Bran Stark e a fragmentação do reino, as Casas deixaram de responder a uma autoridade única. Cada uma passou a agir conforme seus próprios interesses, reconhecendo King’s Landing apenas quando isso lhes convém.
-
-Esta seção reúne as **Casas mais relevantes do cenário atual**, suas origens, linhagens e posições no jogo político.
+Em 188 d.B, nenhuma Casa governa Westeros sozinha. Ainda assim, nenhuma facção relevante existe fora da influência de uma Casa.
 
 ---
 
-## A Nova Ordem das Casas
+## O Papel das Casas no Mundo Atual
 
-Em 188 d.B, não existe um rei coroado.  
-O poder é exercido por meio de:
+As Casas representam:
+- Territórios históricos
+- Linhagens e legitimidade
+- Recursos estruturais (terras, portos, cofres, arquivos)
+- Limites políticos e sociais
 
-- Controle territorial  
-- Força militar ou econômica  
-- Reconhecimento político  
-- Influência sobre o Conselho Regente  
+Elas **não são jogáveis**.  
+Elas **não obedecem jogadores**.
 
-As Casas disputam legitimidade tanto quanto disputam terras.
+As Casas:
+- toleram facções
+- apoiam facções
+- ou as reprimem  
+conforme seus próprios interesses.
 
 ---
 
-## Casas Dominantes
+## Casas e Facções
+
+Cada grande Casa deu origem a **facções rivais**, que disputam:
+- influência interna
+- controle narrativo
+- o futuro político de Westeros
+
+Uma facção pode agir **em nome de uma Casa**, mas nunca controla totalmente sua vontade.  
+Quando uma facção cresce demais, a Casa reage.
+
+---
+
+## As Grandes Casas Atuais
 
 ### 🐺 Casa Stark
-A última Casa a governar todo Westeros — e a responsável direta por sua divisão.
+A última Casa a governar todo Westeros.  
+Hoje fragmentada em linhagens rivais, seu nome ainda define legitimidade, tradição e disputa política em escala continental.
 
-Hoje, o nome Stark não representa uma única entidade, mas **três grandes linhagens rivais**, todas descendentes de Sansa Stark, cada uma com sua própria visão de poder e futuro para o reino.
-
-👉 [Ver a Casa Stark e suas Linhagens](stark.md)
-
----
-
-## Outras Casas
-
-Outras Casas regionais, menores ou emergentes, exercem influência variável sobre o destino de Westeros.  
-Algumas são aliadas das linhagens Stark.  
-Outras aguardam o momento certo para desafiar a ordem atual.
-
-Essas Casas serão registradas conforme ganharem relevância histórica ou jogável.
+👉 [Ver Casa Stark](stark.md)
 
 ---
 
-## Uso no Jogo
+### 🦁 Casa Lannister
+Antiga potência hegemônica, hoje sobrevive por meio de riqueza, crédito e influência silenciosa.  
+Não governa, mas ainda sustenta partes do reino.
 
-- Jogadores podem **pertencer a uma Casa existente**
-- Ou criar **ramificações, vassalos e casas menores**, sujeitas à aprovação da staff
-- Toda Casa reconhecida passa a integrar o **registro canônico** do mundo
+👉 [Ver Casa Lannister](lannister.md)
 
-> Em Westeros, homens morrem.  
-> Casas permanecem — até que caiam.
+---
+
+### ⚓ Casa Seaworth
+Ascendida por mérito e lealdade, tornou-se indispensável ao controle naval e logístico de Westeros.  
+Seu poder está nas rotas, não nos castelos.
+
+👉 [Ver Casa Seaworth](seaworth.md)
+
+---
+
+### 🦌 Casa Stokeworth
+Transformada pela ascensão de Bronn, representa o novo tipo de poder: comprado, negociado e mantido por contratos.  
+É odiada — e necessária.
+
+👉 [Ver Casa Stokeworth](stokeworth.md)
+
+---
+
+### 📚 Casa Tarly
+Redefiniu sua relevância ao trocar espadas por conhecimento.  
+Controla registros, memória e acesso à verdade oficial.
+
+👉 [Ver Casa Tarly](tarly.md)
+
+---
+
+## Importante para o Jogo
+
+- Jogadores **não pertencem a Casas**
+- Jogadores **pertencem a facções**
+- Casas reagem às ações das facções
+- Casas impõem consequências de longo prazo
+
+> Facções fazem o mundo se mover.  
+> Casas decidem até onde ele pode ir.
 
 ---
 
 ## Navegação
 
-- 👉 [Casa Stark](stark.md)
+- 👉 [Facções de Westeros](../faccoes/index.md)
