@@ -1,4 +1,3 @@
-# Regras do RPG
+# Em construção
 
-Esta seção reúne todos os sistemas utilizados no RPG textual,
-incluindo atributos, habilidades, exércitos e casas.
+Esta página será desenvolvida em breve.
