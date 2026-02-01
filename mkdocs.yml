@@ -16,16 +16,20 @@ theme:
 
 nav:
   - Início: index.md
+
   - Lore:
       - Visão Geral: lore/index.md
-      - História do Mundo: lore/historia.md
-      - Facções Atuais: lore/faccoes.md
-  - Regras:
-      - Introdução: regras/index.md
-      - Atributos: regras/atributos.md
-      - Habilidades: regras/habilidades.md
-      - Exércitos: regras/exercitos.md
-      - Casas: regras/casas.md
+      - História Cronológica: lore/historia.md
+
   - Casas:
+      - Visão Geral: casas/index.md
       - Casa Stark: casas/stark.md
+      - Casa Lannister: casas/lannister.md
+      - Casa Seaworth: casas/seaworth.md
+      - Casa Stokeworth: casas/stokeworth.md
+      - Casa Tarly: casas/tarly.md
+
+  - Facções:
+      - Visão Geral: faccoes/index.md
+
   - Como Jogar: como-jogar.md
