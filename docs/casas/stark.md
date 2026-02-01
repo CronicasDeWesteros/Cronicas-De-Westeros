@@ -220,24 +220,6 @@ Não deixou descendência reconhecida. Sua morte permanece sem explicação ofic
 
 ---
 
-## Representação Simplificada
-
-Sansa Stark
-│
-├── Eddard Stark II
-│ ├── Torrhen Stark
-│ └── Arya Stark II
-│
-├── Aemon Stark
-│ ├── Rhaena Stark
-│ └── Maekar Stark
-│
-├── Lyanna Stark
-│ ├── Corlys Stark
-│ └── Elia Stark
-│
-└── Rickon Stark (sem descendência)
-
 ## Nota Histórica
 
 Não existem, até 188 d.B, **linhagens Stark reconhecidas fora desta árvore**.  
