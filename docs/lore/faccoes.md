@@ -7,6 +7,10 @@ As grandes Casas servem como **berço histórico** dessas facções, mas já nã
 
 Estas são as **facções jogáveis da campanha**.
 
+> Casas são o tabuleiro.
+> Facções são as peças.
+> Jogadores fazem as jogadas.
+
 ---
 
 # Facções Derivadas da Casa Stark
