@@ -8,7 +8,7 @@
 **Título:** Rei de Westeros  
 **Avatar:** Isaac Hempstead Wright  
 
-![Bran Stark](.../assets/personagens/stark/bran-stark.webp)
+![Bran Stark](../assets/personagens/stark/bran-stark.webp)
 
 **Feitos:**
 - Unificou Westeros após a queda do Trono de Ferro
@@ -54,7 +54,7 @@ Não deixou herdeiros.
 - Consolidou a autonomia do Norte
 - Fundador da Linhagem do Norte
 
-### Descendência
+### Descendênciaads
 - **Torrhen Stark**
 - **Arya Stark II**
 
