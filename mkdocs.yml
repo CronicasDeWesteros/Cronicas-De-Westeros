@@ -1,5 +1,6 @@
 site_name: Crônicas de Westeros
 site_url: https://cronicasdewesteros.github.io/cronicasdewesteros/
+use_directory_urls: true
 
 theme:
   name: material
