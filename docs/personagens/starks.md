@@ -8,7 +8,7 @@
 **Título:** Rei de Westeros  
 **Avatar:** Isaac Hempstead Wright  
 
-![Bran Stark](../assets/personagens/stark/bran-stark.webp)
+![Bran Stark](/assets/personagens/stark/bran-stark.webp)
 
 **Feitos:**
 - Unificou Westeros após a queda do Trono de Ferro
@@ -27,7 +27,7 @@ Não deixou herdeiros.
 **Título:** Rainha de Westeros  
 **Avatar:** Sophie Turner  
 
-![Sansa Stark](../assets/personagens/stark/sansa-stark.jpg)
+![Sansa Stark](/assets/personagens/stark/sansa-stark.jpg)
 
 **Feitos:**
 - Primeira soberana eleita pelo Conselho
@@ -48,13 +48,13 @@ Não deixou herdeiros.
 **Título:** Senhor do Norte  
 **Avatar:** Travis Fimmel
 
-![Eddard Stark II](../assets/personagens/stark/eddard-ii.jpg)
+![Eddard Stark II](/assets/personagens/stark/eddard-ii.jpg)
 
 **Feitos:**
 - Consolidou a autonomia do Norte
 - Fundador da Linhagem do Norte
 
-### Descendênciaads
+### Descendência
 - **Torrhen Stark**
 - **Arya Stark II**
 
@@ -65,7 +65,7 @@ Não deixou herdeiros.
 **Título:** Senhor do Norte  
 **Avatar:** Joel Kinnaman  
 
-![Torrhen Stark](../assets/personagens/stark/torrhen-stark.webp)
+![Torrhen Stark](/assets/personagens/stark/torrhen-stark.webp)
 
 **Feitos:**
 - Governa o Norte com independência prática
@@ -78,7 +78,7 @@ Não deixou herdeiros.
 **Título:** Nobre do Norte  
 **Avatar:** Jodie Comer  
 
-![Arya Stark II](../assets/personagens/stark/arya-ii.jpg)
+![Arya Stark II](/assets/personagens/stark/arya-ii.jpg)
 
 **Feitos:**
 - Influência política indireta
@@ -92,7 +92,7 @@ Não deixou herdeiros.
 **Título:** Senhor de Harrenhal  
 **Avatar:** Ben Barnes  
 
-![Aemon Stark](../assets/personagens/stark/aemon-stark.jpg)
+![Aemon Stark](/assets/personagens/stark/aemon-stark.jpg)
 
 **Feitos:**
 - Criou a base legalista do reino
@@ -109,7 +109,7 @@ Não deixou herdeiros.
 **Título:** Senhora de Harrenhal  
 **Avatar:** Rebecca Ferguson  
 
-![Rhaena Stark](../assets/personagens/stark/rhaena-stark.jpg)
+![Rhaena Stark](/assets/personagens/stark/rhaena-stark.jpg)
 
 **Feitos:**
 - Mantém o poder burocrático central
@@ -122,7 +122,7 @@ Não deixou herdeiros.
 **Título:** Comandante Regional  
 **Avatar:** Michael Fassbender  
 
-![Maekar Stark](../assets/personagens/stark/maekar-stark.jpg)
+![Maekar Stark](/assets/personagens/stark/maekar-stark.jpg)
 
 **Feitos:**
 - Controle militar local
@@ -136,7 +136,7 @@ Não deixou herdeiros.
 **Título:** Senhora de Gulltown  
 **Avatar:** Rosamund Pike  
 
-![Lyanna Stark](../assets/personagens/stark/lyanna-stark.jpg)
+![Lyanna Stark](/assets/personagens/stark/lyanna-stark.jpg)
 
 **Feitos:**
 - Transformou comércio marítimo em poder político
@@ -153,7 +153,7 @@ Não deixou herdeiros.
 **Título:** Senhor de Gulltown  
 **Avatar:** Alexander Skarsgård  
 
-![Corlys Stark](../assets/personagens/stark/corlys-stark.jpg)
+![Corlys Stark](/assets/personagens/stark/corlys-stark.jpg)
 
 **Feitos:**
 - Domina comércio e frota
@@ -166,7 +166,7 @@ Não deixou herdeiros.
 **Título:** Administradora Comercial  
 **Avatar:** Eva Green  
 
-![Elia Stark](../assets/personagens/stark/elia-stark.webp)
+![Elia Stark](/assets/personagens/stark/elia-stark.webp)
 
 **Feitos:**
 - Controla contratos e rotas mercantis
@@ -181,7 +181,7 @@ Não deixou herdeiros.
 **Título:** Comandante do Norte  
 **Avatar:** Stephen Lang
 
-![Harlon Snowfall](../assets/personagens/stark/harlon-snowfall.jpg)
+![Harlon Snowfall](/assets/personagens/stark/harlon-snowfall.jpg)
 
 **Nota:** Não pertence à Casa Stark  
 **Feitos:** Líder do *Pacto do Inverno*
@@ -193,7 +193,7 @@ Não deixou herdeiros.
 **Título:** Arquivista-Chefe de Harrenhal  
 **Avatar:** Mark Rylance
 
-![Mathis Greyquill](../assets/personagens/stark/mathis-greyquill.jpg)
+![Mathis Greyquill](/assets/personagens/stark/mathis-greyquill.jpg)
 
 **Nota:** Não pertence à Casa Stark  
 **Feitos:** Líder da *Liga do Registro*
