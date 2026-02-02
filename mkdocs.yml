@@ -37,4 +37,8 @@ nav:
       - Facções Seaworth: faccoes/seaworth.md
       - Facções Tarly: faccoes/tarly.md
 
+  - Personagens:
+      - Visão Geral: personagens/index.md
+      - Starks: personagens/starks.md
+
   - Como Jogar: como-jogar.md
