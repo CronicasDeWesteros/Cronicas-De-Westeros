@@ -41,5 +41,10 @@ nav:
   - Personagens:
       - Visão Geral: personagens/index.md
       - Starks: personagens/starks.md
+      - Lannisters: personagens/lannisters.md
+      - Seaworths: personagens/seaworths.md
+      - Stokeworths: personagens/stokeworths.md
+      - Tarlys: personagens/tarlys.md
+      - Conselho: personagens/conselho.md
 
   - Como Jogar: como-jogar.md
